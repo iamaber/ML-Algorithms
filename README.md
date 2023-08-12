@@ -1,2 +1,3 @@
 # ml-algorithms
- Some of the common ML algorithm I learn
+
+Some common ML algorithms that I learn
